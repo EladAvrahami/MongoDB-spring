@@ -1,5 +1,4 @@
 package com.RestApiMongoDB.WebAppWithMongoDB;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
